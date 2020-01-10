@@ -1,7 +1,7 @@
 {
   "name": "Plotly Domain",
   "description": "Plotly Domain Image",
-  "repository": "https://github.com/plotly/Sales-team/tree/master/MyDomain-Sample-master",
+  "repository": "https://github.com/mingyechen/mc-plotly",
   "website": "https://plot.ly/",
   "logo": "https://login.salesforce.com/logos/Salesforce/Salesforce/logo.png",  
   "keywords": ["salesforce"],
