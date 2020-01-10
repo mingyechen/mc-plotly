@@ -1,0 +1,12 @@
+{
+  "name": "Plotly Domain",
+  "description": "Plotly Domain Image",
+  "repository": "https://github.com/plotly/Sales-team/tree/master/MyDomain-Sample-master",
+  "website": "https://plot.ly/",
+  "logo": "https://login.salesforce.com/logos/Salesforce/Salesforce/logo.png",  
+  "keywords": ["salesforce"],
+  "success_url": "/",
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-php"
+  }
+}
