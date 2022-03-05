@@ -2,7 +2,7 @@ MyDomain-Sample
 ====================
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/mingyechen/MC-UL)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/mingyechen/mc-plotly)
 
 The new design of https://login.salesforce.com requires that your My Domain page is responsive.   It will automatically scale up and down depending on the size of a user's browser. 
 
